@@ -1,5 +1,5 @@
 # CBDS
 ChromeBook Data Science course
-## THis repo will contain all project work for the ChromeBook Data Science Course
+### This repo will contain all project work for the ChromeBook Data Science Course
 
-Projects will use DataCamp and R.
+Projects will use DataCamp, CLI and R.
